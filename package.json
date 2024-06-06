@@ -1,0 +1,17 @@
+{
+  "name": "poker-server",
+  "version": "0.0.1",
+  "description": "Poker server for boardgaming.icu. Designed to run as microservices",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "poker"
+  ],
+  "author": "Matthew S. (me@ocld.cc)",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
